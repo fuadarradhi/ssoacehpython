@@ -1,0 +1,8 @@
+README.md
+setup.py
+ssoacehpython/__init__.py
+ssoacehpython/ssoclient.py
+ssoacehpython.egg-info/PKG-INFO
+ssoacehpython.egg-info/SOURCES.txt
+ssoacehpython.egg-info/dependency_links.txt
+ssoacehpython.egg-info/top_level.txt
