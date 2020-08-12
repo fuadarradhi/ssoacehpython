@@ -18,7 +18,7 @@ token = request.POST.get('token')
 sso = ssoclient.SSOClient("/path/ke/sso_secure.json")
 result = sso.ParseToken(token)
 
-print(result.ID)
+print(result.SessionID)
 print(result.NIK)
 print(result.NIP)
 print(result.Nama)

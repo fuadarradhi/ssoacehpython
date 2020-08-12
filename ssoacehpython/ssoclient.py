@@ -12,7 +12,7 @@ class SSOResult:
 
     def __init__(self, valid):
         self.mapping = {
-            "id": "ID",
+            "id": "SessionID",
             "nk": "NIK",
             "np": "NIP",
             "nm": "Nama",

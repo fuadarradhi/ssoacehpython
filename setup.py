@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ssoacehpython",
-    version="0.1.0",
+    version="0.1.1",
     author="Fuad Ar-Radhi",
     author_email="fuad.arradhi@gmail.com",
     description="SSO Aceh client for python language",
